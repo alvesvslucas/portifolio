@@ -230,7 +230,7 @@ main {
   margin-bottom: 10px;
 }
 
-#linha-azul {
+.linha-azul {
   width: 100px;
   height: 5px;
   margin: 0 auto;
@@ -358,13 +358,18 @@ main {
   height: 40px;
 }
 
+.grid-portfolio:focus-within .grid-portfolio-links-projetos {
+  height: 40px;
+}
+
 .link-projeto {
   transition: 0.2s;
   padding: 3px;
   border-radius: 10px;
 }
 
-.link-projeto:hover {
+.link-projeto:hover,
+.link-projeto:focus-visible {
   background-color: var(--color3);
   box-shadow: 0 0 4px 0 var(--color3);
 }

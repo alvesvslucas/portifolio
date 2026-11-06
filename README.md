@@ -4,7 +4,7 @@ Página pessoal de apresentação profissional e projetos de Lucas Alves, desenv
 
 ## Sobre o projeto
 
-O portfólio reúne informações sobre o desenvolvedor, trabalhos e formas de contato. A página utiliza HTML e CSS e organiza o conteúdo em seções como início, sobre, portfólio e contato.
+O portfólio reúne informações sobre o desenvolvedor, trabalhos e formas de contato. A página utiliza HTML, CSS e JavaScript e organiza o conteúdo em seções como início, sobre, portfólio e contato.
 
 ## Tecnologias
 
@@ -26,6 +26,7 @@ O portfólio reúne informações sobre o desenvolvedor, trabalhos e formas de c
 
 - `index.html` — página principal
 - `css/` — estilos
+- `js/` — interações da página
 - `assets/` — imagens e outros recursos visuais
 
 ## Contato
